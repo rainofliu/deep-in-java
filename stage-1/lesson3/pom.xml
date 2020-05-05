@@ -12,4 +12,11 @@
     <artifactId>lesson3</artifactId>
     <name>一入Java深似海：第三讲 面向对象设计（下）</name>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>25.1-jre</version>
+        </dependency>
+    </dependencies>
 </project>
