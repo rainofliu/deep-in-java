@@ -9,13 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
+    <name>一入Java深似海：第二期</name>
+
     <modules>
-        <module>lesson2</module>
-        <module>lesson3</module>
-        <module>lesson4</module>
-        <module>nio</module>
+        <module>lesson1</module>
     </modules>
-    <artifactId>stage-1</artifactId>
-    <name>一入Java深似海：第一期</name>
+    <artifactId>stage-2</artifactId>
+
 
 </project>

@@ -10,6 +10,7 @@
     <name>一入Java深似海系列</name>
     <modules>
         <module>stage-1</module>
+        <module>stage-2</module>
     </modules>
     <packaging>pom</packaging>
     
