@@ -13,7 +13,9 @@
 
     <modules>
         <module>lesson1</module>
+        <module>stage2-lesson2</module>
     </modules>
+
     <artifactId>stage-2</artifactId>
 
 
